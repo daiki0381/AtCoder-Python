@@ -1,4 +1,4 @@
-# 問題 https://atcoder.jp/contests/abc134/tasks/abc134_a
+# https://atcoder.jp/contests/abc134/tasks/abc134_a
 
 r = int(input())
-print(3 * r ** 2)
+print(3 * r**2)

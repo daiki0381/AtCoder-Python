@@ -1,4 +1,4 @@
-# 問題 https://atcoder.jp/contests/abc140/tasks/abc140_a
+# https://atcoder.jp/contests/abc140/tasks/abc140_a
 
 N = int(input())
-print(N ** 3)
+print(N**3)

@@ -1,4 +1,4 @@
-# 問題 https://atcoder.jp/contests/abc145/tasks/abc145_a
+# https://atcoder.jp/contests/abc145/tasks/abc145_a
 
-r  = int(input())
-print(r ** 2)
+r = int(input())
+print(r**2)

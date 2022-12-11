@@ -1,4 +1,4 @@
-# 問題 https://atcoder.jp/contests/abc051/tasks/abc051_a
+# https://atcoder.jp/contests/abc051/tasks/abc051_a
 
 # s = input().replace(",", " ")
 # print(s)

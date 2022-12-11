@@ -1,4 +1,4 @@
-# 問題 https://atcoder.jp/contests/abc256/tasks/abc256_a
+# https://atcoder.jp/contests/abc256/tasks/abc256_a
 
 N = int(input())
-print(2 ** N)
+print(2**N)
