@@ -1,0 +1,4 @@
+# https://atcoder.jp/contests/abc254/tasks/abc254_a
+
+N = input()
+print(N[1:])
