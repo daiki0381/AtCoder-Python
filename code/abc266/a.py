@@ -1,0 +1,4 @@
+# https://atcoder.jp/contests/abc266/tasks/abc266_a
+
+S = input()
+print(S[len(S) // 2])
