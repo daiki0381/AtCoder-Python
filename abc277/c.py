@@ -21,7 +21,7 @@ que.append(1)
 seen = set()
 seen.add(1)
 
-# ④ 訪問後にseenに格納
+# ④ 訪問後にque,seenに格納
 while que:
     now = que.popleft()
 
